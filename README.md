@@ -22,12 +22,21 @@ Fast11 is a tool made by LiamDoesVR, that allows users to customize and tweak th
 
 Download the latest release from releases, and make sure to **run it as administrator**, or else the registry tweaks and other tweaks **will not work**. Once opened, Fast11 will automatically begin downloading and configurating your Windows Installation.
 
-1. First, it will create some log files for debugging purposes. You can find these at (the folder or place you ran the program)/Fast11Data/Logs/log_timestamp.
-2. Second, it will download the basic configuration files off of this GitHub page.
-3. Third, it will download the Windows 11 24H2 ISO, and will give you a percentage based on completion.
-4. Fourth, it will extract the installation files off of the ISO once it's done downloading.
-5. Fifth, It will start to copy over the installation files to your system. This can take awhile.
-6. Sixth, it will finish up, check for updates, and do some background checks like Administrator Permissions.
+  1. Fast11 will create some log files for debugging purposes. You can find these at (the folder or place you ran the program)/Fast11Data/Logs/log_timestamp.
+  2. Fast11 will download the basic configuration files off of this GitHub page.
+  3. Fast11 will download the Windows 11 24H2 ISO, and will give you a percentage based on completion.
+  4. Fast11 will extract the installation files off of the ISO once it's done downloading.
+  5. Fast11 will start to copy over the installation files to your system. This can take awhile.
+  6. Fast11 will finish up, check for updates, and do some background checks like checking for Administrator Permissions.
+
+Once that's done, you will be led into the main menu, where you can:
+
+  (1). Choose Profile
+  (2). Choose Tweaks
+  (3). Re-Select Windows Edition
+  (4). Apply Changes
+  (5). Settings
+  (6). Re-do Setup
 
 ## Profiles
 
