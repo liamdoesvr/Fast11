@@ -29,3 +29,17 @@ Download the latest release from releases, and make sure to **run it as administ
 5. Fifth, It will start to copy over the installation files to your system. This can take awhile.
 6. Sixth, it will finish up, check for updates, and do some background checks like Administrator Permissions.
 
+## Profiles
+
+### Basic
+
+### Content Creation
+
+### Gaming
+
+### Student
+
+### Productivity
+
+### Developer
+
