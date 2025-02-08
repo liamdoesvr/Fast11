@@ -17,7 +17,10 @@ Fast11 is a tool made by LiamDoesVR, that allows users to customize and tweak th
 
 
 ## How to use
-Once opened, Fast11 will automatically begin downloading and configurating your Windows Installation. 
+> [!INFO]
+> Launching Fast11 for the first time may take awhile as it needs to download the nesscesary configuartion and ISO files.
+
+Download the latest release from releases, and make sure to **run it as administrator**, or else the registry tweaks and other tweaks **will not work**. Once opened, Fast11 will automatically begin downloading and configurating your Windows Installation.
 
 1. First, it will create some log files for debugging purposes. You can find these at (the folder or place you ran the program)/Fast11Data/Logs/log_timestamp.
 2. Second, it will download the basic configuration files off of this GitHub page.
