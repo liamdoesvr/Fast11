@@ -1,0 +1,23 @@
+You can set these to whatever preference you want. Please ensure to save and "Start Tweaking".
+Warning: I am not responsible if you brick your system. This is ALL at your own risk.
+
+//Profiles
+SetProfileBasic=true
+SetProfileGame=true
+SetProfileStudent=true
+SetProfileProfessional=true
+SetProfileDeveloper=true
+SetProfileCustom=true
+
+/Basic Configuration
+UninstallBloatApps=true
+KeepMSEdge=true
+InstallDrivers=true
+ChangeContextBox=true
+DarkMode=true
+LeftAlignedTaskbar=true
+RemoveAI=true
+RemoveUnnecessaryTaskbarIcons=true
+RemoveRoundedCorners=true
+UninstallXboxServices=true
+DisableTelemetry=true
