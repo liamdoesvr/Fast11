@@ -52,3 +52,10 @@ Once that's done, you will be led into the main menu, where you can:
 
 ### Developer
 
+### Custom
+> [!WARNING]
+> Some applications may not work together properly. If you encounter this issue, please choose the "Remove Tweaks" option in the Settings menu and try again.
+Let's you customize what apps you want to have installed.
+
+## That's it!
+
