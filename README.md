@@ -17,7 +17,7 @@ Fast11 is a tool made by LiamDoesVR, that allows users to customize and tweak th
 
 
 ## How to use
-> [!INFO]
+> [!NOTE]
 > Launching Fast11 for the first time may take awhile as it needs to download the nesscesary configuartion and ISO files.
 
 Download the latest release from releases, and make sure to **run it as administrator**, or else the registry tweaks and other tweaks **will not work**. Once opened, Fast11 will automatically begin downloading and configurating your Windows Installation.
