@@ -31,12 +31,12 @@ Download the latest release from releases, and make sure to **run it as administ
 
 Once that's done, you will be led into the main menu, where you can:
 
-  (1). Choose Profile
-  (2). Choose Tweaks
-  (3). Re-Select Windows Edition
-  (4). Apply Changes
-  (5). Settings
-  (6). Re-do Setup
+  1. Choose Profile
+  2. Choose Tweaks
+  3. Re-Select Windows Edition
+  4. Apply Changes
+  5. Settings
+  6. Re-do Setup
 
 ## Profiles
 
