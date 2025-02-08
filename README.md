@@ -1,5 +1,5 @@
-[!WARNING]
-This application is still in-development, meaning some features may not work. If you encounter a bug, please post it in the Issues category. Thanks!
+> [!WARNING]
+> This application is still in-development, meaning some features may not work. If you encounter a bug, please post it in the Issues category. Thanks!
 
 # Fast11
 
