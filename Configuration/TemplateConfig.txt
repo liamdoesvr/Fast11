@@ -9,7 +9,7 @@ SetProfileProfessional=true
 SetProfileDeveloper=true
 SetProfileCustom=true
 
-/Basic Configuration
+//Basic Configuration
 UninstallBloatApps=true
 KeepMSEdge=true
 InstallDrivers=true
