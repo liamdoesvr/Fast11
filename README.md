@@ -1,10 +1,9 @@
 ![Fast11 Github Background](https://github.com/user-attachments/assets/9a01013a-abc9-4925-b456-1e205f28c0a5)
 
-> [!NOTE]
-> This application is still under-going development, so it is guaranteed that the app can & will change in the future.
-
->  [!TIP]
-> If you ever find a bug inside Fast11, please report it in the "Issues" category.
+> [!CAUTION]
+> The application you are going to download is still under-development and bugs may occur. Please report any bugs in the 'Issues' category.
+>
+> Remember; if you are making a custom configuration file, please understand what you are doing.
 
 # Features
 Fast11 is fully customizable, where you can change any of the settings you need to configure your ISO file. The items you can change are:
@@ -23,11 +22,9 @@ First, once you open it, Fast11 will begin downloading the nesscesary files need
 - Nesscesary Powershell Scripts (needed for executing functions)
 
 # What's Different?
-You might be asking quesiton like... "Well, why can't I just use Win11Debloater or CCWinUtil?" The thing is with Fast11, all of the modifications come pre-built into the ISO file you created from running the application.
+You might be asking a question like... "Well, why can't I just use Win11Debloater or CCWinUtil?" The thing is with Fast11, all of the modifications come pre-built into the ISO file you created from running the application.
 
 This makes it great for mass deployment and just simple ISOs that include all the apps, tweaks, and configurations to your preference. A lot of Windows Debloaters need you to run it **after installation** which makes it a bit harder because it takes up most of your time and is confusing. Luckily, Talon (created by RavenDevTeam) is a problem solver to this, but you still need to run it after installation, which some people don't like. Most tech-savvy people prefer to just have a minimalized ISO, ready to go with all their applications, tweaks, and configuration.
-
-----------------------------------------------
 
 # Credits
 I want to give a **big** shoutout to Talon, the whole inspiration for me to make this project. Talon inspired me to make a Windows Debloater, beacause I want to test my programming skills on an actual project and not just things I would quit on after like a week.
