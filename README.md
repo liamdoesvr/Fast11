@@ -1,35 +1,15 @@
-![windows-11-purple-abstract-dark-background-dark-purple-dark-3840x2160-8995](https://github.com/user-attachments/assets/c4dfd8c2-71bb-4614-9a02-fc124f102d9e)
+[Fast11 Github Background](https://github.com/user-attachments/assets/9a01013a-abc9-4925-b456-1e205f28c0a5)
 > [!WARNING]
 > This application is still in-development, meaning some features may not work. If you encounter a bug, please post it in the Issues category. Thanks!
 
-# Fast11
+# Features
 
+# Installation Process
 
+# What's Different?
 
-## Features
+# Credits
 
-
-
-## How to use
-
-
-
-## Profiles
-
-### Basic
-
-### Content Creation
-
-### Gaming
-
-### Student
-
-### Productivity
-
-### Developer
-
-### Custom
+# How it works
 
 # That's it!
-
-
