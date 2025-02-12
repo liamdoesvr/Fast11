@@ -5,11 +5,15 @@
 
 # Features
 
+----------------------------------------------
+
 # Installation Process
 First, once you open it, Fast11 will begin downloading the nesscesary files needed for use. It downloads:
 - Default Template Configuration File (recommended for non tech-savvy users)
 - Windows 11 24H2 ISO (will be deleted later with the new, edited ISO)
 - Nesscesary Powershell Scripts (needed for executing functions)
+
+----------------------------------------------
 
 # What's Different?
 You may be like "well, why can't I just use Win11Debloater or CCWinUtil?" and, your correct. But, the thing with Fast11 is that you do not have to even run this on a newly installed Windows 11 machine. It does it all for you, before you even install it.
@@ -26,5 +30,7 @@ The main contributions to this project are:
 - pxrgatory - Helps with functions & writes the README
 
 # How it works
+
+----------------------------------------------
 
 # That's it!
