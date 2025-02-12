@@ -6,14 +6,16 @@
 > Remember: if you are making a custom configuration file, please understand what you are doing.
 
 # Features
-Fast11 is fully customizable, where you can change any of the settings you need to configure your ISO file. The items you can change are:
+Fast11 is a extremely customizable application, where you can change any of the settings/modifications you need to configure your ISO file. The items you can change are:
 
-- 
--
--
--
--
--
+- Create a pre-modified ISO file
+- Install custom applications
+- Easy to use interface
+- Configure Windows Settings straight from the ISO file
+- 5+ pre-set profiles
+- Customizable tweaks
+
+... and much more!
 
 # Installation Process
 First, once you open it, Fast11 will begin downloading the nesscesary files needed for use. It downloads:
