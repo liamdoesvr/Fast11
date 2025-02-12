@@ -4,6 +4,14 @@
 > This application is still in-development, meaning some features may not work. If you encounter a bug, please post it in the Issues category. Thanks!
 
 # Features
+Fast11 is a very customizable application, allowing you to customize your ISO however you want. You can change these options:
+-
+-
+-
+-
+-
+-
+-
 
 ----------------------------------------------
 
