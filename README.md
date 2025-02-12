@@ -3,7 +3,7 @@
 > [!CAUTION]
 > The application you are going to download is still under-development and bugs may occur. Please report any bugs in the 'Issues' category.
 >
-> Remember; if you are making a custom configuration file, please understand what you are doing.
+> Remember: if you are making a custom configuration file, please understand what you are doing.
 
 # Features
 Fast11 is fully customizable, where you can change any of the settings you need to configure your ISO file. The items you can change are:
