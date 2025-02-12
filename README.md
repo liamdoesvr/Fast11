@@ -22,7 +22,7 @@ First, once you open it, Fast11 will begin downloading the nesscesary files need
 - Nesscesary Powershell Scripts (needed for executing functions)
 
 # What's Different?
-You might be asking quesiton liks... "Well, why can't I just use Win11Debloater or CCWinUtil?" The thing is with Fast11, all of the modifications come pre-built into the ISO file you created from running the application.
+You might be asking quesiton like... "Well, why can't I just use Win11Debloater or CCWinUtil?" The thing is with Fast11, all of the modifications come pre-built into the ISO file you created from running the application.
 
 This makes it great for mass deployment and just simple ISOs that include all the apps, tweaks, and configurations to your preference. A lot of Windows Debloaters need you to run it **after installation** which makes it a bit harder because it takes up most of your time and is confusing. Luckily, Talon (created by RavenDevTeam) is a problem solver to this, but you still need to run it after installation, which some people don't like. Most tech-savvy people prefer to just have a minimalized ISO, ready to go with all their applications, tweaks, and configuration.
 
