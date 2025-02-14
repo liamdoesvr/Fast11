@@ -1,4 +1,4 @@
-![Fast11 Github Background](https://github.com/user-attachments/assets/9a01013a-abc9-4925-b456-1e205f28c0a5)
+![Fast11 Banner for Github](https://github.com/user-attachments/assets/a2c168be-d017-4e80-9ee9-844359e3eb48)
 
 > [!CAUTION]
 > The application you are going to download is still under-development and bugs may occur. Please report any bugs in the 'Issues' category.
