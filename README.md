@@ -39,6 +39,6 @@ The main contributions to this project are:
 The Fast11 application will gives you a variety of Profiles that you can choose from, that modifies different tweaks & applications to make it more appealing for that specific profile. Once the profile is selected, 2 ISO files are created, one that doesn't have any changes to the installation media, and one that has all the modifications completed for when you install the ISO file to any computer.
 
 # That's it!
-To summarize what you just read, Fast11 is a application that builds a ISO file that has all of the modifications you've selected before installing Windows. This will be very useful for businesses, content creators, developers, and much more.
+To summarize what you just read, Fast11 is a fast, reliable, and useful application to download modified/profiled ISO files of Windows 11 and download the files straight onto your computer in seconds. Our application will be beneficiary towards large businesses, software developers, artists, programmers, and tons more.
 
 If you would like to contribute towards this application, you can add in Pull Requests for suggestions and feedback.
